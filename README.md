@@ -14,6 +14,4 @@ I am not due to any problems due with the program for misuse
 
 # What it should look like 
 ![]![image](https://user-images.githubusercontent.com/100179759/172732539-298419a4-a3be-4e61-b6d6-b7bd302df735.png)
-> Note you can only get vipercracker here + at this mediafire link 
-> https://www.mediafire.com/file/yu9on2911xvpytk/ViperCracker.zip/file 
-> Anything else is FAKE.
+> Note you can only get vipercracker here
